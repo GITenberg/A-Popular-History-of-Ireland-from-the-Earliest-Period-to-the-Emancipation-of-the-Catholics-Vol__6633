@@ -1,0 +1,25 @@
+_repo: A-Popular-History-of-Ireland-from-the-Earliest-Period-to-the-Emancipation-of-the-Catholics-Vol__6633
+creator:
+  author:
+    agent_name: McGee, Thomas D'Arcy
+    alias: McGee, T. D. (Thomas D'Arcy)
+    birthdate: 1825
+    deathdate: 1868
+    gutenberg_agent_id: '2122'
+    url: http://www.gutenberg.org/2009/agents/2122
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_D%27Arcy_McGee
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ireland -- History'
+title: 'A Popular History of Ireland : from the Earliest Period to the Emancipation
+  of the Catholics - Volume 2'
+url: http://www.gutenberg.org/ebooks/6633
